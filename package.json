@@ -1,0 +1,22 @@
+{
+  "name": "xlsxtmpstream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truongns/xlsxtmpstream.git"
+  },
+  "author": "truongns <truongns@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/truongns/xlsxtmpstream/issues"
+  },
+  "homepage": "https://github.com/truongns/xlsxtmpstream#readme",
+  "dependencies": {
+    "xlsx-template": "^0.2.0"
+  }
+}
